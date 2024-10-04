@@ -512,8 +512,9 @@ button.swiper-pagination-bullet {
     width: 100%;
 }
 
+
 .swiper-slide {
-    width: 390px;
+    width: 600px; /* Increased from 390px */
     height: auto;
     padding: 0 15px;
 }
